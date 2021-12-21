@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BarayH, I am the head of communications for a large crypto investment fund.
-- 👀 I’m interested in Crypto currencies and investments
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate with companies in the Crypto currency market
+- 👀 I’m interested in Crypto currencies and investments.
+- 💞️ I’m looking to collaborate with companies in the Crypto currency market.
 - 📫 How to reach me - Henbaray@gmail.com
